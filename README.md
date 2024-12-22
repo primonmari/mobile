@@ -31,6 +31,23 @@ Certifique-se de ter os seguintes itens instalados:
 - **Expo CLI**
 - **Git**
 
+### Para rodar utilizando o Expo
+
+1. Clone este repositório:
+  
+2. Acesse o diretório do projeto:
+
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+4. Inicie o projeto com Expo:
+   ```bash
+   npm start
+   ```
+
+5. Utilizando o cmd inciar a pasta api com npm start
 
 ## 📍 Funcionalidade de Localização
 Para que o aplicativo funcione corretamente, certifique-se de verificar o endereço IP de seu computador e ajustá-lo no arquivo de api principal.
