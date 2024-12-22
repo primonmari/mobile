@@ -16,7 +16,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - **Expo Router**: Gerenciamento de rotas baseado em arquivos.
 - **StyleSheet**: Estilização customizada para componentes React Native.
 - **Node.js API**: Backend para fornecimento de dados sobre os estabelecimentos.
-- **Expo Location**: Para acessar a localização do usuário.
 - **Expo Camera**: Leitura de QR Codes utilizando a câmera.
 
 ## 🛠️ Conceitos Abordados
