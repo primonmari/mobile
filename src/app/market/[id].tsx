@@ -11,7 +11,7 @@ import { Details, PropsDetails } from "@/components/market/details"
 
 import { api } from "@/services/api"
 
-type DataProps = PropsDetails & {
+type DataProps = PropsDetails & { 
   cover: string
 }
 
