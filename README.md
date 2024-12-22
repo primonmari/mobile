@@ -64,9 +64,6 @@ O **NLW Pocket: Mobile - React Native** é um evento intensivo promovido pela Ro
 O design foi implementado utilizando **StyleSheet**, com foco na responsividade e usabilidade em dispositivos móveis.
 
 
-## 📜 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
 ---
 
 Desenvolvido com 💜 durante o NLW Pocket da **Rocketseat**! 🚀
