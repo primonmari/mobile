@@ -51,9 +51,7 @@ Certifique-se de ter os seguintes itens instalados:
 
 ## Back-End para Download
 
-Se precisar do código do back-end, você pode baixá-lo aqui:
-
-- [Download Back-End]([https://github.com/seu-usuario/seu-repositorio/releases/download/v1.0.0/backend.zip](https://github.com/primonmari/Nearby/releases/tag/v1.0.0))
+O backend do projeto está disponível para download em [Backend Repository](https://github.com/primonmari/Nearby/releases/tag/v1.0.0).
 
 ## 📍 Funcionalidade de Localização
 Para que o aplicativo funcione corretamente, certifique-se de verificar o endereço IP de seu computador e ajustá-lo no arquivo de api principal.
