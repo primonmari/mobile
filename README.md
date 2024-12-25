@@ -50,17 +50,6 @@ Certifique-se de ter os seguintes itens instalados:
 5. Utilizando o cmd inciar a pasta api com npm start
 
 
-## 📍 Funcionalidade de Localização
-Para que o aplicativo funcione corretamente, certifique-se de verificar o endereço IP de seu computador e ajustá-lo no arquivo de api principal.
-
-## 🗺️ Como o Nearby Funciona
-1. **Mapa Dinâmico**: Ao abrir o aplicativo, um mapa interativo exibe a localização do usuário e os estabelecimentos parceiros.
-2. **Ofertas**: Toque nos ícones do mapa para visualizar os locais com promoções disponíveis em cada estabelecimento.
-3. **QR Code**: Use a câmera do aplicativo para escanear QR Codes de ofertas exclusivas.
-
-## 📅 Sobre o Evento
-O **NLW Pocket: Mobile - React Native** é um evento intensivo promovido pela Rocketseat para ensinar as melhores práticas no desenvolvimento mobile, com uma carga horária de 5 horas dividida em 5 dias.
-
 ## 🖌️ Estilo Visual
 O design foi implementado utilizando **StyleSheet**, com foco na responsividade e usabilidade em dispositivos móveis.
 
@@ -73,6 +62,16 @@ O design foi implementado utilizando **StyleSheet**, com foco na responsividade 
 </table>
 
 
+## 📍 Funcionalidade de Localização
+Para que o aplicativo funcione corretamente, certifique-se de verificar o endereço IP de seu computador e ajustá-lo no arquivo de api principal.
+
+## 🗺️ Como o Nearby Funciona
+1. **Mapa Dinâmico**: Ao abrir o aplicativo, um mapa interativo exibe a localização do usuário e os estabelecimentos parceiros.
+2. **Ofertas**: Toque nos ícones do mapa para visualizar os locais com promoções disponíveis em cada estabelecimento.
+3. **QR Code**: Use a câmera do aplicativo para escanear QR Codes de ofertas exclusivas.
+
+## 📅 Sobre o Evento
+O **NLW Pocket: Mobile - React Native** é um evento intensivo promovido pela Rocketseat para ensinar as melhores práticas no desenvolvimento mobile, com uma carga horária de 5 horas dividida em 5 dias.
 
 
 ---
