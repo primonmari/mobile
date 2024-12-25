@@ -67,6 +67,16 @@ O **NLW Pocket: Mobile - React Native** é um evento intensivo promovido pela Ro
 ## 🖌️ Estilo Visual
 O design foi implementado utilizando **StyleSheet**, com foco na responsividade e usabilidade em dispositivos móveis.
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/images/gif.gif" width="300" height="600" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
