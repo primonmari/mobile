@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - **Expo Router**: Gerenciamento de rotas baseado em arquivos.
 - **StyleSheet**: Estilização customizada para componentes React Native.
 - **Node.js API**: Backend para fornecimento de dados sobre os estabelecimentos.
-- **Expo Camera**: Leitura de QR Codes utilizando a câmera.
+- **Expo Câmera**: Leitura de QR Codes utilizando a câmera.
 
 ## 🛠️ Conceitos Abordados
 - **Propriedades, Estados e Componentes**: Fundamentos do React Native.
@@ -41,7 +41,7 @@ Certifique-se de ter os seguintes itens instalados:
 
 4. Inicie o projeto com Expo.
 
-5. Utilizando o cmd inciar a pasta api com npm start
+5. Utilizando o cmd inciar a pasta api com npm start, lembrando de verificar seu endereço IP em api.ts.
 
 
 ## 🖌️ Estilo Visual
