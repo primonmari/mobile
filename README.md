@@ -33,19 +33,13 @@ Certifique-se de ter os seguintes itens instalados:
 
 ### Para rodar utilizando o Expo
 
-1. Clone este repositório:
+1. Clone este repositório.
   
-2. Acesse o diretório do projeto:
+2. Acesse o diretório do projeto.
 
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
+3. Instale as dependências com npm install.
 
-4. Inicie o projeto com Expo:
-   ```bash
-   npm start
-   ```
+4. Inicie o projeto com Expo.
 
 5. Utilizando o cmd inciar a pasta api com npm start
 
